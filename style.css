@@ -1,0 +1,9 @@
+#amigos:hover{
+
+    cursor: pointer;
+    color:red;
+}
+#showless:hover{
+    color:red;
+    cursor: pointer;
+}
